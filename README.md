@@ -1,4 +1,4 @@
-# Moudle 13 - E-Commerce Backend
+# Module 13 - E-Commerce Backend
 
 ![Badge License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
